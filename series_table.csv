@@ -1,4 +1,4 @@
-id,name,brand_id,group_name
+id,name,brand_id,group_name,
 "1","奥迪A4L","1","一汽奥迪",
 "2","奥迪Q5","1","一汽奥迪",
 "3","奥迪A6L","1","一汽奥迪",
